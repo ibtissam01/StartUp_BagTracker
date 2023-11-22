@@ -19,14 +19,24 @@ Bag Tracker est une startup innovante qui propose une solution de suivi des baga
 
 Vous trouverez ci-dessous les captures d'écran de notre proposition de valeur, de notre empathie map, de notre modèle économique et des prototypes réalisés avec Figma.
 
-Proposition de valeur : ![image](https://github.com/ibtissam01/StartUp_BagTracker/assets/89752387/e7686a59-4984-4397-99ef-3db85a2cb564)
+Proposition de valeur : 
 
-Empathie Map : ![image](https://github.com/ibtissam01/StartUp_BagTracker/assets/89752387/647046d6-f904-492b-bde8-d936561b86c8)
-
-Modèle économique : ![image](https://github.com/ibtissam01/StartUp_BagTracker/assets/89752387/124b8159-d0b7-4f14-8c8d-e85253ecf7d1)
+![image](https://github.com/ibtissam01/StartUp_BagTracker/assets/89752387/e7686a59-4984-4397-99ef-3db85a2cb564)
 
 
-Prototypes (réalisés avec Figma) :![image](https://github.com/ibtissam01/StartUp_BagTracker/assets/89752387/bfeb6c75-e692-40c2-8107-1a86b11bd4ee)
+Empathie Map :
+
+![image](https://github.com/ibtissam01/StartUp_BagTracker/assets/89752387/647046d6-f904-492b-bde8-d936561b86c8)
+
+
+Modèle économique :
+
+![image](https://github.com/ibtissam01/StartUp_BagTracker/assets/89752387/124b8159-d0b7-4f14-8c8d-e85253ecf7d1)
+
+
+Prototypes (réalisés avec Figma) :
+
+![image](https://github.com/ibtissam01/StartUp_BagTracker/assets/89752387/bfeb6c75-e692-40c2-8107-1a86b11bd4ee)
 
 
 ## Remerciements
