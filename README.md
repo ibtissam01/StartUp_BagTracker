@@ -1,6 +1,8 @@
 # Bag Tracker
 
 Bag Tracker est une startup innovante qui propose une solution de suivi des bagages pour les voyageurs aériens. Notre objectif est de résoudre les problèmes de perte, de retard et de gestion inefficace des bagages en offrant une solution complète et fiable.
+![image](https://github.com/ibtissam01/StartUp_BagTracker/assets/89752387/a2b797cc-5e61-4ba9-b3b6-cb72fb374799)
+
 
 ## Fonctionnalités clés
 
